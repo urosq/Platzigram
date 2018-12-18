@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="editText_testSize_login">22sp</dimen>
+    <dimen name="padding_horizontal_login">28dp</dimen>
+    <dimen name="textsize_dondehaveaccount">16sp</dimen>
+</resources>
