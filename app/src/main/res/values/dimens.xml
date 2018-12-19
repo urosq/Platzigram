@@ -2,5 +2,7 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="editText_testSize_login">22sp</dimen>
     <dimen name="padding_horizontal_login">28dp</dimen>
-    <dimen name="textsize_dondehaveaccount">16sp</dimen>
+    <dimen name="textsize_donthaveaccount">16sp</dimen>
+    <dimen name="edittext_margin_createaccount">10dp</dimen>
+    <dimen name="activity_vertica_margin">16dp</dimen>
 </resources>
