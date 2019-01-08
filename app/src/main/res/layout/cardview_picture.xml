@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:cardview="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/pictureCard"
+    android:id="@+id/pictureCard0"
     android:layout_width="match_parent"
     android:layout_height="@dimen/height_cardview"
     cardview:cardCornerRadius="@dimen/cornerradius"
+    android:layout_marginBottom="@dimen/activity_vertica_margin"
     >
     
     <FrameLayout

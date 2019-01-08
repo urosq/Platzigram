@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tabs>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
     <tab
-        id="@id/search"
+        id="@+id/search"
         title="@string/tab_search"
         barColorWhenSelected="@color/colorPrimary"
         icon="@drawable/ic_icons8_search_32"
         />
     <tab
-        id="@id/home"
+        id="@+id/home"
         title="@string/tab_home"
         barColorWhenSelected="@color/colorPrimary"
         icon="@drawable/ic_icons8_home_32"
         />
     <tab
-        id="@id/profile"
+        id="@+id/profile"
         title="@string/tab_profile"
         barColorWhenSelected="@color/colorPrimary"
         icon="@drawable/ic_icons8_male_user_32"
